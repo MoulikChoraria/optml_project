@@ -105,7 +105,7 @@ pyOpenSSL==19.0.0
 pyparsing==2.4.2
 pyrsistent==0.15.4
 PySocks==1.7.1
-pyspark==2.4.4
+pyspark==3.2.2
 pytest==5.3.1
 python-dateutil==2.8.0
 python-louvain==0.13
